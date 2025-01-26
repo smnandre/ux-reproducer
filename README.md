@@ -2,8 +2,14 @@
 
 ---
 
-> ![IMPORTANT]
+## Reproducer template
+
+> [!IMPORTANT]
 > This repository is a template for creating a bug reproducer for Symfony UX.
+
+| Layout | Dark Mode                                         | Light Mode                                         |
+|--------|---------------------------------------------------|----------------------------------------------------|
+| Form   | ![Dark Mode Form](./doc/images/reproducer13.jpeg) | ![Light Mode Form](./doc/images/reproducer14.jpeg) |
 
 ## How to use this template?
 
